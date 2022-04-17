@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[![website](./img/TikTok-Logo.wine.svg)](tiktok.com/@lruk)
+"My TikTok = [https://tiktok.com/lruk]"
 
 ### Languages and Tools:
 
