@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[![website](./imgTikTok-Logo.wine.svg)](tiktok.com/@lruk)
+[![website](./img/TikTok-Logo.wine.svg)](tiktok.com/@lruk)
 
 ### Languages and Tools:
 
