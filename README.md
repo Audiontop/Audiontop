@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[![website](Discord_(software)-Logo.wine.svg)](https://discord.com/☛ꫂ҉҈𝐍ͥ𝐞͢𝐱ͣ𝐨ͫ♞࿐#5917)
+[![website](./imgTikTok-Logo.wine.svg)](tiktok.com/@lruk)
 
 ### Languages and Tools:
 
