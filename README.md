@@ -1,5 +1,4 @@
 <h1 align="center">Wassup 👋, I'm Audi</h1>
-<h3 align="center">I consider myself a learning developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Audiontop&label=Profile%20views&color=0e75b6&style=flat" alt="noelistired" /> </p>
 
