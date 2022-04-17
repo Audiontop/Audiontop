@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-"My TikTok = [https://tiktok.com/lruk]"
+https://tiktok.com/@lruk
 
 ### Languages and Tools:
 
