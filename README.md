@@ -21,3 +21,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Audiontop&show_icons=true&locale=en&layout=compact" alt="Audiontop" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Audiontop&show_icons=true&locale=en" alt="Audiontop" /></p>
+
+<p><img align="left" src="[https://github-readme-stats.vercel.app/api/top-langs?username=Audiontop&show_icons=true&locale=en&layout=compact](https://giphy.com/gifs/04kLabReYWswSzfbOp?utm_source=iframe&utm_medium=embed&utm_campaign=Embeds&utm_term=https%3A%2F%2Fgithub.com%2FAudiontop%2FAudiontop%2Fblob%2Fmain%2FREADME.md)" alt="Audiontop" /></p>
