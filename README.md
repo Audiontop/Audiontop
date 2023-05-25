@@ -1,5 +1,3 @@
-![Header](./Recovered.png)
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Audiontop&label=Profile%20views&color=0e75b6&style=flat" alt="Audiontop" /> </p>
 
 - 👋 https://discord.gg/casanovaservices
@@ -23,3 +21,4 @@ A͟b͟o͟u͟t͟ ͟m͟e͟
   <img src="https://github-readme-stats.vercel.app/api?username=Audiontop&theme=midnight-purple&show_icons=true" />
 </p>
 
+![Footer](./Recovered.png)
