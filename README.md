@@ -2,11 +2,11 @@
 
 ![Header](./Recovered.png)
 
-C͟o͟n͟t͟a͟c͟t͟
+Contact
 - Reach me on Discord: Audi#0002
 - https://discord.gg/casanovaservices
 
-A͟b͟o͟u͟t͟ ͟m͟e͟
+About Me
 - Language: German / English
 - Interested in | Tools | AIO | Cracking
 - I work with Python | JavaScript | HTML
