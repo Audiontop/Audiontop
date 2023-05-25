@@ -1,12 +1,10 @@
-![Header](./Recovered.png)
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Audiontop&label=Profile%20views&color=0e75b6&style=flat" alt="Audiontop" /> </p>
 
-- 👋 https://discord.gg/casanovaservices
+![Header](./Recovered.png)
 
 C͟o͟n͟t͟a͟c͟t͟
 - 📫 Reach me on Discord: Audi#0002
-
+- 👋 https://discord.gg/casanovaservices
 
 A͟b͟o͟u͟t͟ ͟m͟e͟
 - 🌱 Language: German / English
