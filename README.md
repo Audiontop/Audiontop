@@ -23,5 +23,3 @@ A͟b͟o͟u͟t͟ ͟m͟e͟
   <img src="https://github-readme-stats.vercel.app/api?username=Audiontop&theme=midnight-purple&show_icons=true" />
 </p>
 
-
-![Footer](./footer.png)
