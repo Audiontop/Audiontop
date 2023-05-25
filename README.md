@@ -3,13 +3,13 @@
 ![Header](./Recovered.png)
 
 C͟o͟n͟t͟a͟c͟t͟
-- 📫 Reach me on Discord: Audi#0002
-- 👋 https://discord.gg/casanovaservices
+- Reach me on Discord: Audi#0002
+- https://discord.gg/casanovaservices
 
 A͟b͟o͟u͟t͟ ͟m͟e͟
-- 🌱 Language: German / English
-- 👀 Interested in | Tools | AIO | Cracking
-- 🌱 I work with Python | JavaScript | HTML
+- Language: German / English
+- Interested in | Tools | AIO | Cracking
+- I work with Python | JavaScript | HTML
 
 <p href="Audi" align="center">
     <img alt="" src=https://lanyard.cnrad.dev/api/308809638873137152/>
