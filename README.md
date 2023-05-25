@@ -10,7 +10,7 @@ C͟o͟n͟t͟a͟c͟t͟
 
 A͟b͟o͟u͟t͟ ͟m͟e͟
 - 🌱 Language: German / English
-- 👀 Interested in | Automating the manuel | Frontend | Backend
+- 👀 Interested in | Tools | AIO | Cracking
 - 🌱 I work with Python | JavaScript | HTML
 
 <p href="Audi" align="center">
