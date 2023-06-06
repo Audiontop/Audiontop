@@ -12,7 +12,7 @@ About Me
 - I work with Python | JavaScript | HTML
 
 <p href="Audi" align="center">
-    <img alt="" src=https://lanyard.cnrad.dev/api/109861647143482987/>
+    <img alt="" src=https://lanyard.cnrad.dev/api/1098616471434829876/>
 </p>
 
 <h1 align="center">Stats</h1>
