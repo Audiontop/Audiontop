@@ -1,10 +1,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Audiontop&label=Profile%20views&color=0e75b6&style=flat" alt="Audiontop" /> </p>
 
-![Header](./Recovered.png)
-
 Contact
-- Reach me on Discord: Audi#0002
-- https://discord.gg/casanovaservices
+- Reach me on Discord: xaudi
+- https://discord.gg/markethits
 
 About Me
 - Language: German / English
