@@ -1,8 +1,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Audiontop&label=Profile%20views&color=0e75b6&style=flat" alt="Audiontop" /> </p>
 
 Contact
-- Reach me on Discord: xaudi
-- https://discord.gg/markethits
+- Reach me on Discord: xaudiss
+- https://discord.gg/qjdhYsw2
 
 About Me
 - Language: German / English
